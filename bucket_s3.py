@@ -1,7 +1,7 @@
 # Save data to an AWS bucket
 
 from typing import Dict
-
+import urllib3
 import aws_lib
 import pymongo
 
