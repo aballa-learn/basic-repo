@@ -12,3 +12,5 @@ client = boto3.client(
     aws_secret_access_key="dfansoeifnasdfmaklsfuhlrnfaweiohc",
     aws_session_token="dfnawuhchabcasjndjhvkygbnnreaoengsgl"
 )
+
+vartest=1
