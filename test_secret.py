@@ -8,7 +8,8 @@ def pull_data_from_mongo(query: Dict):
 
 client = boto3.client(
     's3',
-    aws_access_key_id="KIAF6BAFJKR45SAWSZ5",
+security_test
+    aws_access_key_id="AKIAF6BAFJKR45SAWSZ5",
     aws_secret_access_key="dfansoeifnasdfmaklsfuhlrnfaweiohc",
     aws_session_token="dfnawuhchabcasjndjhvkygbnnreaoengsgl"
 )
